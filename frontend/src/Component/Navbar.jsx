@@ -12,7 +12,7 @@ const Navbar = () => {
             alt="Flowbite Logo"
           />
           <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-            Flowbite
+            Todo
           </span>
         </a>
         <button
