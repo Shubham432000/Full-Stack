@@ -49,7 +49,7 @@ const Todo = () => {
             required
           />
         </div>
-        <div className="mb-6">
+        <div className="mb-5">
           <label
             for="mobile"
             className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
