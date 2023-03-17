@@ -11,7 +11,7 @@ router.post("/register",async(req,res)=>{
  // res.json({message:req.body})
 
     if(!name || !mobile || !email ){
-        res.status(422).json("plz fill the data");
+        res.status(422).json("please filled the data");
     }
 
     try {
